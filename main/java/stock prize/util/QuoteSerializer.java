@@ -1,4 +1,4 @@
-package com.tspoon.googlefinance.utils;
+package stock prize.utils;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
